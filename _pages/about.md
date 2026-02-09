@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xiaoxian"
+title: "Xiaoxian Zhang"
 author_profile: true
 redirect_from: 
   - /about/
