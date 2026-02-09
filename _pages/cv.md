@@ -11,11 +11,11 @@ redirect_from:
 
 Academic Background
 ======
-* Research Intern in Human-Computer Interaction (HCI), Singapore-MIT Alliance for Research and Technology (SMART), 2025
+* Research Intern, Singapore-MIT Alliance for Research and Technology, 2025
 
 * M.Sc. in Biomedical Engineering, National University of Singapore, 2025
 
-* Summer Exchange in Large Language Models (LLMs), Peking University, 2024
+* Summer Exchange, Peking University, 2024
 
 * B.Eng. in Information Engineering & Urban Planning, Xi'an University of Architecture and Technology, 2022
 

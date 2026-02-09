@@ -7,7 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-## Publications
 
 + **First Author**, Research on the assessment technology of community physical examination based on panoramic images.[J]. The Architect,2024(02):5-12. **(CSSCI Core Journal)**
 
