@@ -19,4 +19,4 @@ author_profile: true
 + **Last Author**, Refined Land Use Classification for Urban Core Area from Remote Sensing Imagery by the EfficientNetV2 
 Model. Appl. Sci. 2024, 14, 7235. https://doi.org/10.3390/app14167235 **(SCI;JCRQ1）**
 
-+ **first author**, A computer software copyright of Public Space Pedestrian Flow Statistics System Based on Deep Learning Registration No.: 2021SR1088002
++ **First author**, A computer software copyright of Public Space Pedestrian Flow Statistics System Based on Deep Learning Registration No.: 2021SR1088002
