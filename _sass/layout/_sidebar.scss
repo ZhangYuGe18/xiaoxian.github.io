@@ -154,8 +154,9 @@
   }
 
   img {
-    max-width: 175px;
-    border-radius: 50%;
+    max-width: 175px; /* 保持最大宽度 */
+    height: auto; /* 自动调整高度以保持比例 */
+    border-radius: 50%; /* 保持圆形 */
 
     @include breakpoint($large) {
       padding: 5px;

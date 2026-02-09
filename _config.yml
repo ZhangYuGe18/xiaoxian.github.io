@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Xiaoxian"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Shawn"
 description              : &description "xiaoxian's academic portfolio"
 url                      : https://zhangyuge18.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -27,7 +27,7 @@ author:
   name             : "Xiaoxian(Shawn) Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Clinical Medical Physicist"
-  location         : "Xi'an, China"
+  location         : "Xi’an, Shaanxi, China"
   employer         : "First Affiliated Hospital of Xi'an Jiaotong University"
   uri              : # URL
   email            : "xiaoxianzhang@xjtu.edu.cn" 
