@@ -12,10 +12,10 @@ main:
     url: /publications/
 
   - title: "Projects"
-    url: /projects/    
+    url: /projects/
 
   - title: "News"
-    url: /news/    
-    
+    url: /news/
+
   - title: "CV"
     url: /cv/

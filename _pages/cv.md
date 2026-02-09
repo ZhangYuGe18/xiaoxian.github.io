@@ -9,56 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Academic Background
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Research Intern in Human-Computer Interaction (HCI), Singapore-MIT Alliance for Research and Technology (SMART), 2025
+
+* M.Sc. in Biomedical Engineering, National University of Singapore, 2025
+
+* Summer Exchange in Large Language Models (LLMs), Peking University, 2024
+
+* B.Eng. in Information Engineering & Urban Planning, Xi'an University of Architecture and Technology, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Sep, 2025 – Present: Clinical Medical Physicist, The First Affiliated Hospital of Xi'an Jiaotong University, Xi'an, China**
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May, 2025 – Aug, 2025: Radiation Physicist Intern, Sun Yat-sen University Cancer Center, Guangzhou, China
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Jul, 2022 – Jun, 2024: Data Scientist, Beijing Community Research Center (Urbanxyz), Beijing, China
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Projects
-======
-  <ul>{% for post in site.projects reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-News
-======
-  <ul>{% for post in site.news reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Mar, 2022 – May, 2022: Algorithm Intern, Medical Research Center of Institute of Electrical Engineering, Xi'an, China
+
+* Jan, 2022 – Mar, 2022: Intern, Guiyang Science and Technology Bureau, Guiyang, China
+
+* Jun, 2021 – Dec, 2021: Data Analyst Intern, ByteDance, Xi'an, China
