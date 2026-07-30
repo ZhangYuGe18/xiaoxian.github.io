@@ -34,7 +34,7 @@ Academic Service
 * Reviewer, [Workshop on Digital Twin for Healthcare (DT4H)](https://digitaltwinforhealthcare.com/), **MICCAI 2025**
 
 
-Teaching Experience
+Honors & Awards
 ------
 
 2026, **First Prize** - Shaanxi Enterprise "Three New and Three Small" Innovation Competition
