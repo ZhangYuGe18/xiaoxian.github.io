@@ -16,7 +16,7 @@ author_profile: true
      <span style="display: inline-block; border: 1px solid rgba(100, 255, 131, 0.5); background: rgba(100, 255, 108, 0.15); border-radius: 16px; padding: 4px 10px; font-size: 0.85em; font-weight: 600; white-space: nowrap;">2026.07</span>
     </div>
     <div style="font-size: 0.95em; line-height: 1.6; margin: 0; padding-top: 2px;">
-      We are pleased to announce that our “AI-based individualized decision-making system for radiotherapy of metaplastic breast cancer” has won the First Prize of the Shaanxi Enterprise “Three New and  Three Small” Innovation Competition. 🎆🎆🎆
+      We are pleased to announce that our “AI-based individualized decision-making system for radiotherapy of metaplastic breast cancer” has won the First Prize of the Shaanxi Enterprise “Three New and  Three Small” Innovation Competition. 🥇🥇🥇
     </div>
   </div>
 
